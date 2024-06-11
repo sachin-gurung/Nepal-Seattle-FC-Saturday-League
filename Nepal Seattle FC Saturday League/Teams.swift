@@ -8,7 +8,7 @@
 import Foundation
 
 struct Teams {
-    var rank: Int
+    var ranking: Int
     var name: String
     var wins: Int
     var ties: Int
